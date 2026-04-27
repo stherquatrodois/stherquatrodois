@@ -2,7 +2,7 @@
 
 
 
-## Hi there 👋 
+## Hi there  :)
 
 
 <!--
